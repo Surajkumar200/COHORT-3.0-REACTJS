@@ -1,4 +1,4 @@
-/*
+/* JSX Components 
 vite -> builed tool 
  bundller  -> roolup / esbuiled
  compilar  -> transpillers -> babel
